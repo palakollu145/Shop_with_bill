@@ -1,0 +1,226 @@
+*{
+  box-sizing: border-box;
+  font-family: raleway;
+  color: black;
+}
+body,html{
+  margin: 0px;
+  padding: 0px;
+}
+
+ul
+{
+  margin: 0;
+}
+.mainhead{
+  padding-top: 0.1px;
+  background-color: lightgreen;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 0.05px;
+
+}
+.boxes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.add{
+  background-color: skyblue;
+  min-width: 8cm;
+  min-height: 6cm;
+}
+.texta{
+  text-align: center;
+}
+.ui{
+  margin-left: 2mm;
+}
+.start{
+  margin-left: 3.5cm;
+  background-color: pink;
+  border-radius: 14%;
+}
+.warn{
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+}
+.add1{
+  background-color: skyblue;
+  min-width: 8cm;
+  min-height: 5.5cm;
+}
+.pn{
+  padding-top: 0.3cm;
+margin-left: 2mm;
+}
+.p{
+  margin-left: 2mm;
+}
+.q{
+  margin-left: 2mm;
+}
+.a1{
+  margin-left: 1.5cm;
+}
+.a2{
+  margin-left: 1cm;
+}
+.al{
+  text-align: center;
+  text-decoration: underline;
+
+}
+.start:hover{
+  background-color: lightgreen;
+}
+.tab{
+    border:solid 5px;
+    border-top-color:#FEB9B9;
+    border-right-color:#B22222;
+    border-bottom-color:#B22222;
+    border-left-color:#FEB9B9;
+  align-items: center;
+  background-color: rgb(255, 253, 208);
+  max-width: 23cm;
+  min-height: auto;
+  margin: auto;
+}
+th{
+  color: red;
+  border-top: solid black;
+  border-right: solid black;
+  border-left: solid black;
+  border-bottom: solid black;
+
+}
+td{
+  text-align: center;
+}
+tr:hover{
+  background-color: skyblue;
+}
+.tab2{
+  border:solid 5px;
+    border-top-color:#FEB9B9;
+    border-right-color:#B22222;
+    border-bottom-color:#B22222;
+    border-left-color:#FEB9B9;
+  align-items: center;
+  background-color: rgba(255, 253, 208,1);
+  max-width: 20cm;
+  min-width: auto;
+  min-height: auto;
+  margin: auto;
+}
+.ttop{
+  border-bottom: 2px;
+  border-color: black;
+}
+.staw:hover{
+  background-color: skyblue;
+}
+.p{
+  margin: auto;
+}
+.add2{
+  padding-top: 2mm;
+  background-color: skyblue;
+  min-width: 7cm;
+  min-height: 2.5cm;
+}
+.m{
+  margin-left: 2mm;
+}
+.sub{
+  margin-left: 2cm;
+  background-color: pink;
+
+}
+.sub:hover{
+  background-color: lightgreen;
+}
+.wain{
+  background-color: lightyellow;
+}
+.prn{
+  padding: 3mm;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.dateq{
+  font-weight: bold;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.Phead{
+  text-align: center;
+  background-color: rgba(255,255,0,0.4);
+  max-width: 20cm;
+  margin: auto;
+  border-bottom: 2mm;
+}
+.spname{
+  font-family: ALGERIAN;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size:1cm;
+}
+.tf{
+  max-width: 20cm;
+  font-weight: bold;
+  text-align: center;
+  background-color: lightgreen;
+  margin: auto;
+  text-align: right;
+}
+.tFf{
+  margin-right: 7mm;
+}
+.bot{
+  margin-left: 50%;
+}
+.vi{
+  text-align: center;
+  text-decoration: underline;
+}
+.filters{
+  background-color: rgba(0,0,0,0.5);
+    max-width: 20cm;
+  margin: auto;
+  text-align: center;
+  padding-top: 1mm;
+  padding-bottom: 1mm;
+}
+.dsub:hover{
+  background-color: lightgreen;
+  cursor: pointer;
+}
+.idate{
+  background-color: lightyellow;
+  cursor: pointer;
+}
+.tgg{
+  max-width: 20cm;
+  font-weight: bold;
+  text-align: center;
+  background-color: yellow;
+  margin: auto;
+  text-align: center;
+
+}
+.delll{
+  background-color: skyblue;
+  text-align: center;
+  max-width: 9cm;
+  margin: auto;
+  padding-top: 1mm;
+  padding-bottom: 1mm;
+  border-radius: 0%;
+  
+}

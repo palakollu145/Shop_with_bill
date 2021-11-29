@@ -1,0 +1,182 @@
+*{
+  box-sizing: border-box;
+  font-family: raleway;
+
+}
+html,body{
+  margin: 0;
+  padding: 0;
+}
+
+.head1{
+  text-align: center;
+  font-family: Dark College;
+  font-style: normal;
+  font-size: 100px;
+  color: white;
+}
+.back{
+  background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: top;
+ background-image:url(http://bit.ly/2gPLxZ4);
+ width: 100%;
+ height: 100%;
+}
+
+.first{
+  padding-top: 2cm;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.imgs{
+  width:300px;
+}
+.mer{
+  margin-left: 6cm;
+}
+.use{
+  margin-right: 6cm;
+}
+.usepic{
+  padding-bottom: 0.5cm;
+}
+.merchpic:hover{
+  background-color: rgba(135,206,235,0.7);
+
+}
+.usepic:hover{
+  background-color: rgba(135,206,235,0.7);
+  display: inline-flex;
+  padding-bottom: 0.5cm;
+}
+.merchtext,.usertext{
+
+  text-align: center;
+  font-size:30px;
+  font-weight: bold;
+  color: white;
+}
+/*meerhant registartion*/
+.head2{
+  margin-top: 1cm;
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial;
+  color: white;
+}
+.box{
+
+  margin-top: 1cm;
+  padding: 50px;
+  background-color: rgba(0,255,120,0.7);
+  max-width: 12cm;
+  margin: auto;
+}
+.info{
+  text-align: center;
+  color: white;
+
+}
+.labe{
+
+  font-weight: bold;
+  color: black;
+  font-size: .5cm;
+
+}
+.in{
+  padding: 0.1cm;
+  background-color:pink;
+}
+.in8{
+  padding-left: 0.2cm;
+  padding-right: 0.2cm;
+  margin-left: 5.5cm;
+  background-color: pink;
+  border-radius: 12%;
+}
+.in8:hover{
+  background-color: lightgreen;
+
+}
+.star{
+  color: red;
+}
+/*merchant login*/
+.head3{
+  text-align: center;
+  font-family: Arial;
+  font-size: 40px;
+  color: white;
+}
+.box2{
+  margin-top: 1cm;
+  padding: 50px;
+  background-color: rgba(0,255,120,0.7);
+  margin:auto;
+  max-width: 15cm;
+}
+.pad{
+  padding-right: 1cm;
+  font-size: 0.7cm;
+  font-weight: bold;
+  color: black;
+}
+.in{
+  padding: 0.1cm;
+  background-color:pink;
+}
+.inn8{
+  padding-left: 0.2cm;
+  padding-right: 0.2cm;
+  margin-left: 5.5cm;
+  background-color: pink;
+  border-radius: 12%;
+}
+.inn8:hover{
+  background-color: lightgreen;
+}
+/*user registration*/
+.head4{
+  text-align: center;
+  font-family: Arial;
+  color: white;
+}
+.boxer{
+  margin-top: 1cm;
+  padding: 50px;
+  background-color: rgba(0,255,120,0.7);
+  margin:auto;
+  max-width: 12cm;
+}
+.pad1{
+  padding-right: 0cm;
+  font-weight: bold;
+  color: black;
+  font-size: .5cm;
+}
+.inn8{
+  padding-left: 0.2cm;
+  padding-right: 0.2cm;
+  margin-left: 5.5cm;
+  background-color: pink;
+  border-radius: 12%;
+}
+.nn{
+    padding: 0.1cm;
+    background-color:pink;
+}.pad4{
+  padding-right: 1cm;
+  font-size: 20px;
+  font-weight: bold;
+}
+.box5{
+  margin-top: 1cm;
+  padding: 50px;
+  background-color: rgba(0,255,120,0.7);
+  margin:auto;
+  max-width: 12cm;
+}
